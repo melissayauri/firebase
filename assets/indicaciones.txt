@@ -1,0 +1,19 @@
+logearte con gmail
+crear proyecto
+
+enlazar el link en el htmk
+
+y colocar el codigo en el js
+ir a autenticaciomn
+vamos ayuda-documentacion para desaroladore relCIONADA
+vamos a web-acceso con google
+copiar la primera linea de codigo
+dirigir al punto 5,hay dos opciones, aplicando la primea opcion, todo el bloque de codigo
+autenticacion-metodo de inicio sesion-i
+
+--imagenes en firebase
+
+incluir en el storage
+
+copiar todo el codigo menos a partir del if, el codigo esta en rules
+var config configurar el link en la parte de storagebucket
